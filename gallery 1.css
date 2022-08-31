@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+div{
+    background-color: rgb(217, 235, 133);
+    width: 23%;
+    height: 358px;
+    float: left;
+    border: 2px rgb(24, 24, 22) solid;
+    padding: 10px;
+    text-align: center;
+}
+img{
+    width: 40%;
+    height: 196px;
+    border-radius: 2px;
+    float: left;
+    margin-right: 2px;
+}
+h2{
+    text-align: center;
+    font-family: 'Rubik Dirt', cursive;;
+}
+p{
+    font-size: small;
+}
+section{
+    text-align: center;
+}
